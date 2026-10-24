@@ -1,5 +1,16 @@
-# 💫 About Me:
-## About Me<br>I am a Computer Science student passionate about programming and software development.<br><br>- I have knowledge of C, C++, Java, and Python.<br>- I am currently working in frontend development.<br>- I am interested in web development, problem solving, and learning new technologies.<br>- I am continuously improving my coding skills and building projects.<br>
+# 💫# Hi, I'm Layeq 👋
+
+🎓 7th-Semester Computer Science Student at the University of Haripur
+
+💻 Web Developer with internship experience at Coomax Solutions
+
+🛠️ **Skills:** HTML, CSS, Tailwind CSS, JavaScript, PHP, MySQL, Python, C++
+
+🔗 Interested in API Integration, Software Development, and Problem Solving
+
+🌱 Always learning and building new projects.
+
+🤝 Open to collaboration and exciting opportunities.
 
 
 # 💻 Tech Stack:
